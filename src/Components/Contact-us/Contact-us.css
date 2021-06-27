@@ -1,0 +1,35 @@
+#section_one
+{
+    background-image: linear-gradient( rgb(255, 16, 148),black);
+    padding: 22px;
+}
+#section_two
+{
+    background-image: linear-gradient( rgb(255, 16, 148),black);
+}
+#iconic_one
+{
+    background-image: linear-gradient( rgb(255, 16, 158),yellow);
+    color:white;
+    padding: 5px;
+    border-radius: 8px;
+    
+}
+#iconic_two
+{
+    background-color:dodgerblue;
+    padding: 5px;
+}
+.box
+{
+        border-style:solid ;
+        border-width: 1px;
+        width:400px;
+        margin: auto
+        
+}
+.box_inner
+{
+    padding:20px;
+    margin-left: 25px;
+}

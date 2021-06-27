@@ -1,0 +1,20 @@
+#one
+{
+    background-image: linear-gradient(to bottom right,rgb(250, 3, 135),white,rgb(250, 3, 135));
+}
+#champ
+{
+    background-color:rgb(255, 82, 111);
+    color: white;
+}
+#champ:hover
+{
+    background-color: purple;
+    font-family: cursive;
+}
+#secthird
+{
+    background-image: linear-gradient(rgb(250, 3, 135),black);
+    color:white;
+    
+}

@@ -1,0 +1,17 @@
+#navigation_bar
+{
+  background-color: rgb(255, 16, 148);
+
+}
+#navactive
+{
+  background-image:linear-gradient(rgb(255, 16, 148),black)
+}
+.global
+{
+  background-color: rgb(253, 230, 233);
+}
+#global2
+{
+  background-image: repeating-radial-gradient(purple,rgb(255,16,148))
+}
